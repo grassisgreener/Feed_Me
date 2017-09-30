@@ -1,0 +1,22 @@
+.image_hover {
+    width: 395px;
+    height: 260px;
+    margin: 15px;
+}
+  
+.image_hover:hover {
+    color: #424242; 
+    opacity: 1;
+    transform: scale(2);
+    -ms-transform: scale(2); 
+    -webkit-transform: scale(2);
+}
+
+h1.my-4 {
+    padding-top: 50px;
+}
+
+#image_container_header_div h1, h4 {
+    text-align: center;
+    margin: 0 auto;
+}
